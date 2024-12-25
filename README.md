@@ -4,6 +4,9 @@ Streamlit is a powerful Python library that simplifies the process of building i
 
 This is a versatile data analytics web app using Streamlit. This portal will enable users to upload datasets, perform exploratory data analysis (EDA), and visualize data insights—all through an interactive and user-friendly interface. Whether you’re a seasoned data scientist or just starting in the field, understanding how to create such applications can greatly enhance your ability to communicate data findings effectively.
 
+You can live stream this App!!
+https://dataanalyticsproject.streamlit.app/
+
 ![image](https://github.com/user-attachments/assets/01744062-18bd-4c09-8781-5a38091d5fc0)
 ![image](https://github.com/user-attachments/assets/b63f8c12-e60e-4f3e-a113-cd8ff3aba78d)
 ![image](https://github.com/user-attachments/assets/637d8c30-3e6e-433b-a49a-6492dbac70f7)
